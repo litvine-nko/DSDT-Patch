@@ -1,5 +1,5 @@
 #Maintained by: RehabMan for: Laptop Patches
-#wifi_AR9285-RP02-PXSX.txt
+#wifi_1111111111111111.txt
 
 #   Airport fix works with vanilla IO80211 kext
 into method label _DSM parent_label PXSX remove_entry;
